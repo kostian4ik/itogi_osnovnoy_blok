@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\bin\Debug\net6.0\OsnovnoyBlokItogovai.exe
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\bin\Debug\net6.0\OsnovnoyBlokItogovai.deps.json
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\bin\Debug\net6.0\OsnovnoyBlokItogovai.runtimeconfig.json
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\bin\Debug\net6.0\OsnovnoyBlokItogovai.dll
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\bin\Debug\net6.0\OsnovnoyBlokItogovai.pdb
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\OsnovnoyBlokItogovai.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\OsnovnoyBlokItogovai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\OsnovnoyBlokItogovai.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\OsnovnoyBlokItogovai.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\OsnovnoyBlokItogovai.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\OsnovnoyBlokItogovai.dll
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\refint\OsnovnoyBlokItogovai.dll
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\OsnovnoyBlokItogovai.pdb
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\OsnovnoyBlokItogovai.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\OsnovnoyBlokItogovai\obj\Debug\net6.0\ref\OsnovnoyBlokItogovai.dll
